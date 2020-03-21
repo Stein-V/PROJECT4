@@ -1,0 +1,125 @@
+@charset "utf-8";
+*{margin: 0px; padding: 0px;}
+
+.container { 
+	background: #0C083F
+}
+
+.body {
+font-family: 'Oswald', sans-serif;
+}
+
+.jumbotron {
+	background: #E8DC2F
+}
+
+.napping {
+text-align: center;
+color: white;
+font-size: 50px;
+border: 3px solid black;
+background-image:url("../images/sundown.JPG");
+}
+
+.flower { 
+	text-align: center;
+	font-size: 30px;
+	color: #0C083F;
+}
+
+.image {
+	width: 100%;
+	float: left;
+	margin-top: 10px;
+	margin-right: 3px;
+	margin-left: 1px;
+	border: 2px solid white;
+}
+
+.bubbles { 
+	width: 100%;
+	float: left;
+	margin-top: 10px;
+	margin-right: 3px;
+	margin-left: 1px;
+	border: 2px solid white;
+
+}
+
+.dolls {
+	width: 100%;
+	float: left;
+	margin-top: 10px;
+	margin-right: 3px;
+	margin-left: 1px;
+	border: 2px solid white;
+}
+
+
+.lorem {
+	color: white;	
+}
+
+.dawn { 
+	width: 100%;
+	float: right;
+	margin-top: 10px;
+	margin-right: 1px;
+	margin-left: 3px;
+	border: 2px solid white;
+}
+
+.unicorns { 
+	width: 100%;
+	float: right;
+	margin-top: 10px;
+	margin-right: 1px;
+	margin-left: 3px;
+	border: 2px solid white;
+}
+
+.city {
+	width: 100%;
+	float: right;
+	margin-top: 10px;
+	margin-right: 1px;
+	margin-left: 3px;
+	border: 2px solid white;
+}
+
+.goodreads {
+	color: aqua
+}
+
+.ninth { 
+	width: 100%;
+		height: auto;
+	vertical-align: middle;
+	margin-top: 10px;
+}
+
+.circe { 
+	width: 100%;
+	height: auto;
+	vertical-align: middle;
+	margin-top: 10px;
+}
+
+.tsoe { 
+	width: 100%;
+	height: auto;
+	vertical-align: middle;
+	margin-top: 10px;
+}
+
+.leigh { 
+color: white;
+}
+
+.Gayyyyy { 
+	color: white;
+}
+
+.mythology { 
+color: white;
+}
