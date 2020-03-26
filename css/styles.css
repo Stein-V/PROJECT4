@@ -1,125 +1,52 @@
 @charset "utf-8";
 *{margin: 0px; padding: 0px;}
 
-.container { 
-	background: #0C083F
+.jumbotron { 
+	background: #066130;
 }
 
-.body {
-font-family: 'Oswald', sans-serif;
+
+.logo { 
+width: 100%;
+	height: auto;
 }
 
-.jumbotron {
-	background: #E8DC2F
-}
-
-.napping {
+.header { 
 text-align: center;
-color: white;
-font-size: 50px;
-border: 3px solid black;
-background-image:url("../images/sundown.JPG");
-}
-
-.flower { 
-	text-align: center;
-	font-size: 30px;
-	color: #0C083F;
-}
-
-.image {
-	width: 100%;
-	float: left;
-	margin-top: 10px;
-	margin-right: 3px;
-	margin-left: 1px;
-	border: 2px solid white;
-}
-
-.bubbles { 
-	width: 100%;
-	float: left;
-	margin-top: 10px;
-	margin-right: 3px;
-	margin-left: 1px;
-	border: 2px solid white;
-
-}
-
-.dolls {
-	width: 100%;
-	float: left;
-	margin-top: 10px;
-	margin-right: 3px;
-	margin-left: 1px;
-	border: 2px solid white;
-}
-
-
-.lorem {
-	color: white;	
-}
-
-.dawn { 
-	width: 100%;
-	float: right;
-	margin-top: 10px;
-	margin-right: 1px;
-	margin-left: 3px;
-	border: 2px solid white;
-}
-
-.unicorns { 
-	width: 100%;
-	float: right;
-	margin-top: 10px;
-	margin-right: 1px;
-	margin-left: 3px;
-	border: 2px solid white;
-}
-
-.city {
-	width: 100%;
-	float: right;
-	margin-top: 10px;
-	margin-right: 1px;
-	margin-left: 3px;
-	border: 2px solid white;
-}
-
-.goodreads {
-	color: aqua
-}
-
-.ninth { 
-	width: 100%;
-		height: auto;
-	vertical-align: middle;
-	margin-top: 10px;
-}
-
-.circe { 
-	width: 100%;
-	height: auto;
-	vertical-align: middle;
-	margin-top: 10px;
-}
-
-.tsoe { 
-	width: 100%;
-	height: auto;
-	vertical-align: middle;
-	margin-top: 10px;
-}
-
-.leigh { 
-color: white;
-}
-
-.Gayyyyy { 
 	color: white;
 }
 
-.mythology { 
+
+.footer { 
+height:50px; 
+background: #066130;
+}
+
+.social_media { 
+text-align: center;
 color: white;
+}
+
+.topnav {
+  background-color: #C6484A;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
 }
