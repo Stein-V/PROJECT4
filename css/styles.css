@@ -60,3 +60,17 @@ color: white;
     top: 50%;
     width: 100%;
 }
+
+.thumbnail { 
+	border: 3px solid grey;
+	border-radius: 7px;
+}
+
+.products { 
+ margin-top: 3px;
+}
+
+.description { 
+margin-left: 3px;
+	margin-right: 3px;
+}
