@@ -72,6 +72,14 @@ color: white;
 .description { 
 margin-left: 3px;
 	margin-right: 3px;
+  font-weight: bold;
+  font-size: large;
+}
+
+.Price { 
+margin-left: 3px;
+  margin-right: 3px;
+  color: grey;
 }
 
 .about_image { 
@@ -107,4 +115,17 @@ width: 100%;
 
 .social_media{ 
 allign: center;
+}
+
+.fact_photo{
+width: 100%;
+  float: left;
+  margin-top: 10px;
+  margin-right: 3px;
+  margin-left: 1px;
+  border: 2px solid black;
+}
+
+.dates{
+   font-weight: bold;
 }
