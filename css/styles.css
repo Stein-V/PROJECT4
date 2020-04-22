@@ -7,8 +7,8 @@
 
 
 .logo { 
-width: 100%;
-	height: auto;
+width: 14%;
+	height: 100%;
 }
 
 .header { 
@@ -63,7 +63,8 @@ color: white;
 .thumbnail { 
 	border: 3px solid grey;
 	border-radius: 7px;
-	height: auto;
+	height: 100%;
+	width: 100%;
 	align-self: auto;
 	
 }
