@@ -63,6 +63,9 @@ color: white;
 .thumbnail { 
 	border: 3px solid grey;
 	border-radius: 7px;
+	height: 400px;
+	align-self: auto;
+	
 }
 
 .products { 
