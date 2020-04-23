@@ -136,3 +136,9 @@ width: 100%;
 .dates{
    font-weight: bold;
 }
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
