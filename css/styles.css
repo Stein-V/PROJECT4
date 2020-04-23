@@ -24,11 +24,6 @@ text-align: center;
 background: #066130;
 }
 
-.social_media { 
-text-align: center;
-color: white;
-}
-
 .topnav {
   background-color: #C6484A;
   overflow: hidden;
@@ -142,3 +137,11 @@ width: 100%;
   width: 25%;
   padding: 5px;
 }
+
+.responsive {
+  width: 25%;
+  height: auto;
+}
+
+
+
